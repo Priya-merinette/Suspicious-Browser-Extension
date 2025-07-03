@@ -102,3 +102,4 @@ Save them inside the `/screenshots/` folder.
 # Suspicious-Browser-Extension
 # Suspicious-Browser-Extension
 # Suspicious-Browser-Extension
+# Suspicious-Browser-Extension
